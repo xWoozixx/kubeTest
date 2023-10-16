@@ -2,7 +2,7 @@
 
 $host = "d-bddmaria-01.in.ac-noumea.nc"; // Adresse de la base de données
 $user = "kube"; // Nom d'utilisateur MySQL
-$password = "lkgjnogjnhelkfj43"; // Mot de passe MySQL
+$password = ""; // Mot de passe MySQL
 $database = "kube_dev"; // Nom de la base de données
 
 try {
