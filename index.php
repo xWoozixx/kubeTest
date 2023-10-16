@@ -2,26 +2,13 @@
 <html>
 <head>
     <title>LAMP sur un server NFS</title>
-    <?php echo "Hello, this is a simple PHP test!"; ?>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-        <style>
-            body {
-                font-family: Arial, sans-serif;
-                background-color: #f2f2f2;
-                padding: 20px;
-            }
+    
+<?php echo "Hello, this is a simple PHP test!"; ?>
 
-            h1 {
-                color: #333;
-            }
-
-            p {
-                color: #666;
-                line-height: 1.5;
-            }
-            </style>
 <body>
-    <h1>Bienvenue sur l'app1 du Vice-rectorat !</h1>
+    <h1>Bienvenue sur le site de test du Vice-rectorat !</h1>
     <p>
         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
         egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet,
