@@ -16,7 +16,7 @@
         Mauris placerat eleifend leo.
     </p>
     <form action="connect.php" method="post">
-        <input type="submit" name="submit" value="Exécuter connect.php">
+        <input type="submit" name="submit" value="Tester la connexion à la BDD">
     </form>
 </body>
 </html>
